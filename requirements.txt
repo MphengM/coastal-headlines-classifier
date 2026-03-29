@@ -1,0 +1,8 @@
+gdeltdoc
+scikit-learn
+transformers
+mlflow
+pandas
+nltk
+torch
+notebook
